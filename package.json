@@ -1,0 +1,32 @@
+{
+  "name": "react-native-3dcube-navigation-reworked",
+  "version": "1.0.6",
+  "description": "Reworked Edition of the original react-native-3dcube-navigation",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "react-navigation"
+  ],
+  "files": [
+    "src"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "start": "react-native start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omer-ayhan/react-native-3dcube-navigation-reworked.git"
+  },
+  "bugs": {
+    "url": "https://github.com/omer-ayhan/react-native-3dcube-navigation-reworked/issues"
+  },
+  "homepage": "https://github.com/omer-ayhan/react-native-3dcube-navigation-reworked#readme",
+  "author": "Ömer Ayhan",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
