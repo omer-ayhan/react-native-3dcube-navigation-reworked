@@ -2,7 +2,7 @@
 
 # react-native-3dcube-navigation-reworked
 
-<a href="https://www.npmjs.com/package/react-native-3dcube-navigation-reworked"><img src="https://img.shields.io/badge/1.0.6-%20npm-brightgreen" alt="NPM version"></a>
+<a href="https://www.npmjs.com/package/react-native-3dcube-navigation-reworked"><img src="https://img.shields.io/badge/1.0.7-%20npm-brightgreen" alt="NPM version"></a>
 
 ### Reworked Edition of the original [react-native-3dcube-navigation](https://github.com/zehfernandes/react-native-3dcube-navigation). Which mostly includes fixes
 
